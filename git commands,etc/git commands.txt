@@ -11,4 +11,4 @@ git init = to initialize the working directory
 
 git checkout -b new_branch old_branch = to switch the newbranch
 
-git remote add (URL)=remote repo url link paste in url place
+git remote add origin (URL)=remote repo url link paste in url place
