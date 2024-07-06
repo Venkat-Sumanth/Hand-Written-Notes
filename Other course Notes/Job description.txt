@@ -1,0 +1,267 @@
+Job highlights:
+Requirements: . Bachelors degree in Computer Science,Information Systems,or a related field
+Prior experience in building RESTful APIs using Python and Flask is required
+Proven experience as a Data Engineer or similar role,with expertise in Python and Flask
+Hands-on experience with data modeling,data warehouse design,and ETL processes
+
+Job description:
+We are seeking a talented and experienced Data Engineer to join our team. As a Data Engineer, 
+you will be responsible for developing and maintaining data pipelines, building data models, 
+and optimizing data workflows. Your primary focus will be on designing, developing, and deploying 
+scalable and robust data-driven applications using Python with Flask framework.
+
+Responsibilities:
+Develop, maintain, and optimize data pipelines for effective and efficient data extraction, transformation, and loading (ETL) processes.
+Design and implement data models and databases that meet the needs of various stakeholders within the organization.
+Collaborate with cross-functional teams, including Data Scientists and Analysts, to understand data requirements and deliver solutions.
+Build RESTful APIs using Python and Flask framework to expose data to other applications and services.
+Identify and implement improvements in data infrastructure, including data quality monitoring, data governance, and data security.
+Perform data profiling, data cleaning, and data validation to ensure data integrity.
+Troubleshoot and debug issues related to data ingestion, processing, and delivery.
+Stay up-to-date with the latest industry trends, technologies, and best practices in data engineering and Flask development.
+
+Requirements:
+Bachelors degree in Computer Science, Information Systems, or a related field.
+Proven experience as a Data Engineer or similar role, with expertise in Python and Flask.
+Strong knowledge of SQL and proficiency in working with relational databases.
+Hands-on experience with data modeling, data warehouse design, and ETL processes.
+Prior experience in building RESTful APIs using Python and Flask is required.
+Familiarity with cloud platforms such as AWS or Azure, and understanding of distributed systems is a plus.
+Solid understanding of data privacy, security, and compliance regulations.
+Strong problem-solving and analytical skills with the ability to handle and process large datasets.
+Excellent communication and collaboration skills to work effectively in cross-functional teams.
+If you possess the required skills and have a passion for working on data-driven applications using Python-Flask, we would love to hear from you. Apply now and join our dynamic team!
+---------------------------------------------------------------------------------------------------------------
+Job highlights:
+Experience in Python,Spark,hadoop and Hive .
+Knowledge and experience with Database like MongoDB / SQL Database (MySQL / Oracle)
+. Good understanding of SDLC .
+Experience with integration of data from multiple data sources . .
+
+Job description:
+Advanced conceptual understanding of at least one Programming Language
+Advanced conceptual understanding of one database and one Operating System
+Understanding of Software Engineering with practice in at least one project
+Ability to contribute in medium to complex tasks independently
+Exposure to Design Principles and ability to understand Design Specifications independently
+Ability to run Test Cases and scenarios as per the plan
+
+Skills:
+Experience in Python, Spark, hadoop and Hive
+Knowledge and experience with Database like MongoDB/SQL Database (MySQL/Oracle).
+Good understanding of SDLC
+Experience with integration of data from multiple data sources
+--------------------------------------------------------------------------------------------------------
+Job highlights
+Bachelors degree in Computer Science,Software Engineering,or a related field (Master s degree preferred)
+Proven experience as a Software Engineer or Software Developer,with a strong portfolio of projects
+Experience with cloud platforms (e.g.,AWS,Azure,Google Cloud Platform)
+
+Job description
+**Job Description: Software Engineer**
+
+**Company Overview:**
+Desktech Solutions Private Limited is a cutting-edge technology company specializing in developing innovative software solutions for . Our mission is to empower businesses with robust, scalable, and user-friendly software applications that drive efficiency and growth. We are committed to excellence, creativity, and delivering exceptional value to our clients.
+
+**Position Overview:**
+We are seeking a talented and motivated Software Engineer to join our dynamic team. As a Software Engineer at Desktech Solutions, you will be involved in all stages of software development, from brainstorming ideas to coding, testing, and deployment. You will work closely with cross-functional teams to ensure our software applications meet the needs of our clients and adhere to high-quality standards.
+
+**Responsibilities:**
+- Collaborate with product managers and engineering teams to understand requirements and translate them into technical solutions
+- Design and develop scalable and maintainable software applications using modern programming languages and technologies
+- Write clean, efficient, and well-documented code
+- Conduct unit and integration testing to ensure software quality and reliability
+- Troubleshoot, debug, and resolve issues in a timely manner
+- Participate in code reviews to provide and receive constructive feedback
+- Stay updated on emerging technologies and contribute to continuous improvement of software development processes
+
+**Requirements:**
+- Bachelors degree in Computer Science, Software Engineering, or a related field (Master’s degree preferred)
+- Proven experience as a Software Engineer or Software Developer, with a strong portfolio of projects
+- Proficiency in one or more programming languages such as Java, Python, C++, JavaScript, Aws Devops, Workday Administrator etc.
+- Experience with web development frameworks (e.g., React, Angular, Vue.js) and databases (e.g., MySQL, MongoDB)
+- Solid understanding of software engineering principles, algorithms, and data structures
+- Strong analytical and problem-solving skills
+- Excellent communication and teamwork skills
+- Ability to learn new technologies quickly and adapt to a fast-paced environment
+
+**Preferred Qualifications:**
+- Experience with cloud platforms (e.g., AWS, Azure, Google Cloud Platform)
+- Familiarity with DevOps practices and tools (e.g., Docker, Kubernetes, CI/CD pipelines)
+- Knowledge of Agile methodologies and software development lifecycle
+
+**Personal Attributes:**
+- Passion for software development and technology innovation
+- Ability to work independently and collaboratively in a team environment
+- Detail-oriented with a commitment to delivering high-quality software solutions
+- Strong work ethic and a proactive approach to problem-solving
+--------------------------------------------------------------------------------------------------------
+Job description
+We are seeking a motivated and enthusiastic Junior Software Developer to join our development team. The ideal candidate will have a strong foundation in programming, a keen interest in technology, and a desire to learn and grow in a fast-paced environment. As a Junior Software Developer, you will work closely with experienced developers to design, develop, and maintain software applications that meet our clients needs.
+Key Responsibilities:
+Collaborate with the development team to design, develop, test, and deploy software applications.
+Write clean, maintainable, and efficient code in accordance with industry best practices.
+Participate in code reviews and contribute to team knowledge sharing.
+Troubleshoot, debug, and resolve software defects and issues.
+Assist in the documentation of software requirements, technical specifications, and user manuals.
+Stay up-to-date with the latest industry trends, tools, and technologies.
+Contribute to the continuous improvement of development processes and methodologies.
+Provide support and maintenance for existing software applications.
+
+Qualifications:
+Bachelor s degree in Computer Science, Software Engineering, or a related field (or equivalent experience).
+Proficiency in one or more programming languages such as Java, Python , C#, JavaScript , etc.
+Familiarity with web development frameworks and technologies (e.g., React, Angular, Node.js) is a plus.
+Understanding of database management systems (e.g., SQL, NoSQL).
+Basic knowledge of version control systems (e.g., Git).
+Strong problem-solving skills and attention to detail.
+Excellent communication and teamwork abilities.
+Eagerness to learn new technologies and improve existing skills.
+----------------------------------------------------------------------------------------------------------
+Job description:
+Minds NXT is looking for Python Developer to join our dynamic team and embark on a rewarding career journey
+Develop and maintain applications using Python
+Write clean and efficient code
+Collaborate with front-end and back-end developers
+Optimize applications for performance and scalability
+Conduct testing and debugging
+Stay updated with Python development trends
+---------------------------------------------------------------------------------------------------------
+Job description:
+Python Coding, Prompting Writing, Generative AI, Inputs for AI chatbot, 
+Python libraries-Math: Sympy, Numpy, including linalg, statistics library-sklearn. 
+Ability to translate instructions (which involves advanced maths and physics) to code.
+------------------------------------------------------------------------------------------------------------
+Job description:
+We are seeking a passionate Python Developer to join our development team in Bangalore. 
+The ideal candidate will have a strong background in Python programming and experience working 
+with various web frameworks and libraries
+
+Key Responsibilities:
+Develop, test and maintain scalable web applications using Python
+Write clean, efficient, and reusable code
+Collaborate with cross-functional teams
+Design and implement robust APIs
+
+Required Skills and Qualifications:
+BE/BTech in Computer Science with 2-5 years of experience as a Python Developer
+Proficiency in Python and its frameworks with strong understanding of web development principles and best practices
+Experience with front-end technologies as well as database systems
+Experience with RESTful APIs and microservices architecture
+
+Preferred Skills:
+Experience with cloud platforms
+Knowledge of containerization tools (e.g., Docker, Kubernetes)
+Understanding of machine learning libraries and frameworks (e.g., TensorFlow, PyTorch)
+-------------------------------------------------------------------------------------------------------------
+Job description:
+We are seeking a talented Backend Python Developer with 2-3 years of experience to join our team. 
+As a Backend Python Developer, you will be responsible for designing and implementing server-side logic, 
+ensuring high performance and responsiveness to requests from the front-end. You will collaborate with 
+our front-end developers, product managers, and designers to deliver scalable and efficient back-end 
+solutions. The ideal candidate is passionate about backend development, stays updated with the latest 
+technologies, and thrives in a collaborative environment.
+
+Key Responsibilities:
+Develop, test, deploy, and maintain scalable backend services using Python.
+Design and implement robust APIs and integrations to support front-end features and third-party services.
+Optimize and improve existing backend systems for performance and reliability.
+Collaborate closely with front-end developers to integrate user-facing elements with server-side logic.
+Implement security and data protection measures.
+Participate in code reviews, troubleshoot issues, and ensure code quality.
+Work closely with product managers and stakeholders to understand requirements and translate them into technical solutions.
+Stay updated with emerging technologies and industry trends to continuously improve our products and processes.
+
+Required Skills and Experience:
+Bachelors degree in computer science, Engineering, or a related field.
+2-3 years of professional experience as a Backend Developer with a strong focus on Python.
+Solid understanding of Python programming language, its best practices, and ecosystem.
+Experience with web frameworks such as Django, Flask, or FastAPI.
+Proficiency in SQL and database design (e.g., PostgreSQL, MySQL).
+Familiarity with front-end technologies (HTML5, CSS3, JavaScript).
+Experience with version control systems (e.g., Git).
+Strong understanding of RESTful APIs and experience building and consuming them.
+Ability to work independently and in a team environment.
+Excellent problem-solving skills and attention to detail.
+Strong communication skills and ability to collaborate effectively with cross-functional teams.
+
+Preferred Skills:
+Experience with cloud platforms (e.g., AWS, Azure, Google Cloud).
+Knowledge of containerization and orchestration (e.g., Docker, Kubernetes).
+Familiarity with Agile methodologies and CI/CD pipelines.
+Understanding of microservices architecture.
+Contributions to open-source projects or personal GitHub repositories.
+----------------------------------------------------------------------------------------------------------
+Job description:
+We are seeking a passionate Python Developer to join our development team in Bangalore. 
+The ideal candidate will have a strong background in Python programming and experience 
+working with various web frameworks and libraries
+
+Key Responsibilities:
+Develop, test and maintain scalable web applications using Python
+Write clean, efficient, and reusable code
+Collaborate with cross-functional teams
+Design and implement robust APIs
+
+Required Skills and Qualifications:
+BE/BTech in Computer Science with 2-5 years of experience as a Python Developer
+Proficiency in Python and its frameworks with strong understanding of web development principles and best practices
+Experience with front-end technologies as well as database systems
+Experience with RESTful APIs and microservices architecture
+
+Preferred Skills:
+Experience with cloud platforms
+Knowledge of containerization tools (e.g., Docker, Kubernetes)
+Understanding of machine learning libraries and frameworks (e.g., TensorFlow, PyTorch)
+---------------------------------------------------------------------------------------------------
+Job description:
+
+Required Skills:
+Absolute clarity in OOP fundamentals and Data-Structures
+Must have hands-on experience in Data Structure like List, Dict, Set, Strings, Lambda, etc
+Strong knowledge of various Python Web Frameworks (Django, Flask, ORM, etc.)
+Must have hands-on experience in working with RDBMS SQL, MySQL.
+Excellent written and verbal communication and presentation skills.
+Strong technical skills on Azure/AWS/GCP cloud platform.
+Experience in cloud-based infrastructure . Able to set up CI/Cd pipelines and maintain cloud applications.
+Python, Python Web Based Framework, Rest APIS, Design Patterns, microservices, any Data access framework, Cloud platform experience.
+
+Roles and responsibilities:
+Maintain and improve existing projects
+Collaborate with the technical team to develop new features and troubleshooting issues
+Lead projects to understand the requirements and distribute work to the technical team
+Follow the project/task timelines and quality.
+
+Requirements-
+Must be residing in Pune, Maharashtra.
+Minimum 2+ years of experience.
+Fluency in English and Hindi communication is a must, and knowing regional languages is an advantage.
+---------------------------------------------------------------------------------------------------
+Job highlights:
+Experience with Docker and micro services
+
+Requirements: 
+Strong experience in Python programming language
+Good understanding of RESTful APIs
+Experience with AWS
+
+Responsibilities:
+Develop and maintain web applications using Django and DRF
+Design and implement micro services architecture
+Containerize the applications using Docker
+Develop and maintain user-facing features using HTML, CSS, JavaScript
+Deploy and manage applications on AWS
+Collaborate with cross-functional teams to ensure project success
+
+Requirements:
+Strong experience in Python programming language
+Proficiency in Django and DRF
+Experience with Docker and micro services
+Good understanding of RESTful APIs
+Knowledge of front-end technologies (HTML, CSS, JavaScript)
+Experience with AWS
+Knowledge of database systems (e.g. PostgreSQL, MySQL)
+Ability to work in a fast-paced environment and handle multiple projects simultaneously
+Excellent problem-solving and debugging skills
+Good communication skills
+---------------------------------------------------------------------------------------------------
